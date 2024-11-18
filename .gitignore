@@ -1,0 +1,8 @@
+.venv/
+data/
+*.ipynb
+*.joblib
+*.pkl
+*.csv
+*.json
+*.html
